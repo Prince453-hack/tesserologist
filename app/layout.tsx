@@ -16,8 +16,7 @@ const body = Manrope({
 
 export const metadata: Metadata = {
   title: "Tesserologist",
-  description:
-    "Immersive 3D landing page for a tesserologist-inspired product story.",
+  description: "",
 };
 
 export default function RootLayout({
